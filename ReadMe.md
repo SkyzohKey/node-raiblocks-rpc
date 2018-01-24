@@ -174,6 +174,7 @@ Anyway, if you consider support me, you can pay me a pack of Monster's cans for 
 I accept donations in form of RaiBlocks, Monero, Bitcoin, Etherum & IntenseCoin. You can also Patreon me !
 
 [![Become a patron](https://i.imgur.com/oWouhEe.png)](https://www.patreon.com/bePatron?u=2330345)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSkyzohKey%2Fnode-raiblocks-rpc.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSkyzohKey%2Fnode-raiblocks-rpc?ref=badge_shield)
 
 ```
 1. Monero (XMR): 47XpVhUHahViCZHuZPc2Z6ivLraidX7AxbM8b2StdPcQGwjDGY14eqj9ippW7Pdrqj9d2y4xvwChzePQAqG1NvqQ775FKxg
@@ -190,3 +191,6 @@ If you wish to support me, but doesn't have money for, you can still message me 
 ## License
 
 This project is licensed under [The MIT License](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSkyzohKey%2Fnode-raiblocks-rpc.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSkyzohKey%2Fnode-raiblocks-rpc?ref=badge_large)
